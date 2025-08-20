@@ -11,10 +11,4 @@ An educational web app that teaches **Sentiment Analysis** (happy, sad, neutral 
 - React + Vite
 - Hosted on Vercel
 
-## 📦 How to Deploy
-1. Fork or clone this repo.
-2. Push it to your GitHub.
-3. Connect the repo to [Vercel](https://vercel.com).
-4. Vercel will auto-detect Vite → Build & Deploy.
-
 Enjoy learning emotions with AI!
